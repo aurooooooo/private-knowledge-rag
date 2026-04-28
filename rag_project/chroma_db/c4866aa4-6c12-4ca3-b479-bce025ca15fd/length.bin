@@ -1,1 +1,0 @@
-invalid type: string "前端本地开发规范\n在  Vue 项目的本地开发阶段，前端工程师如果遇到接口跨域请求问题，应该在  vite.config.js 中配置  proxy 代理规则。本\n地测试时的后端接口统一转发到  http://localhost:8080。请注意，这仅仅是本地开发环境的临时跨域解决方案，生产环境\n严禁使用此方式。", expected a bool

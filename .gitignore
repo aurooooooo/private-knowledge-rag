@@ -1,4 +1,6 @@
 .env
-rag_frontend\node_modules\
-rag_project\chroma_db\
-rag_project\pdf\
+rag_frontend/node_modules/
+rag_project/chroma_db/
+rag_project/pdf/
+.idea/
+__pycache__/
